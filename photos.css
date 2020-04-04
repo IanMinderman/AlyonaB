@@ -1,0 +1,35 @@
+img {
+	width: 30%;
+	float: left;
+	margin:1.66%;
+	border-radius: 5px;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	margin-left: 1.66%;
+	margin-top: 3%;
+	font-weight: 800;
+	font-size: 3rem;
+	text-align: center;
+	border-bottom: 4px solid black;
+	width: 30%;
+}
+
+p {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	margin-left: 3%;
+	width: 30%;
+	text-align: center;
+	float: left;
+}
+
+.about {
+	float: left;
+}
+
+.contact {
+	float: right;
+}
